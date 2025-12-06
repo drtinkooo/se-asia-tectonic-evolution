@@ -1,0 +1,88 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Ko Oo"
+    given-names: "Tin"
+    affiliation: "Mahidol University, Thailand"
+title: "SE Asia Tectonic Evolution Animation"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/YOUR_USERNAME/seasia-tectonic-animation"
+repository-code: "https://github.com/YOUR_USERNAME/seasia-tectonic-animation"
+license: MIT
+keywords:
+  - plate tectonics
+  - Southeast Asia
+  - GPlates
+  - animation
+  - geoscience
+  - Python
+abstract: >-
+  A Python tool for creating high-quality animations of 
+  Southeast Asia's tectonic evolution from 240 million years 
+  ago to the present day using the GPlately library and 
+  plate reconstruction models from EarthByte.
+references:
+  - type: article
+    authors:
+      - family-names: "Müller"
+        given-names: "R. Dietmar"
+      - family-names: "Zahirovic"
+        given-names: "Sabin"
+      - family-names: "Williams"
+        given-names: "Simon E."
+      - family-names: "Cannon"
+        given-names: "John"
+      - family-names: "Seton"
+        given-names: "Maria"
+      - family-names: "Bower"
+        given-names: "Dan J."
+      - family-names: "Tetley"
+        given-names: "Michael G."
+      - family-names: "Heine"
+        given-names: "Christian"
+      - family-names: "Le Breton"
+        given-names: "Eline"
+      - family-names: "Liu"
+        given-names: "Shaofeng"
+      - family-names: "Russell"
+        given-names: "Samuel H. J."
+      - family-names: "Yang"
+        given-names: "Ting"
+      - family-names: "Leonard"
+        given-names: "Jonathon"
+      - family-names: "Gurnis"
+        given-names: "Michael"
+    title: "A global plate model including lithospheric deformation along major rifts and orogens since the Triassic"
+    journal: "Tectonics"
+    volume: 38
+    year: 2019
+    doi: "10.1029/2018TC005462"
+  - type: article
+    authors:
+      - family-names: "Mather"
+        given-names: "Ben R."
+      - family-names: "Müller"
+        given-names: "R. Dietmar"
+      - family-names: "Zahirovic"
+        given-names: "Sabin"
+      - family-names: "Cannon"
+        given-names: "John"
+      - family-names: "Chin"
+        given-names: "Michael"
+      - family-names: "Ilano"
+        given-names: "Lauren"
+      - family-names: "Wright"
+        given-names: "Nicky M."
+      - family-names: "Alfonso"
+        given-names: "Christopher"
+      - family-names: "Williams"
+        given-names: "Simon"
+      - family-names: "Tetley"
+        given-names: "Michael"
+      - family-names: "Merdith"
+        given-names: "Andrew"
+    title: "Deep time spatio-temporal data analysis using pyGPlates with PlateTectonicTools and GPlately"
+    journal: "Geoscience Data Journal"
+    year: 2023
+    doi: "10.1002/gdj3.185"
